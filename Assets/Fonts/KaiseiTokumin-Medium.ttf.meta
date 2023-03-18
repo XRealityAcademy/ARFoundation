@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0408c76694cbe20489d76d9d75094e96
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kaisei Tokumin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f20c30de6a0d48e429cbbfd685222e96, type: 3}
+  - {fileID: 12800000, guid: e3ee993bfdd228649bf137ad2414df27, type: 3}
+  - {fileID: 12800000, guid: 3394cc651c13fa84894d3e0a91a842c7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

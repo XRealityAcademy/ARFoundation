@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe7d99caaa828ed489b4cd6099a00cb3, type: 3}
+  m_Name: DrinkARApp
+  m_EditorClassIdentifier: 
+  items:
+  - itemName: Lemonade
+    itemPrefab: {fileID: 2729254337840168383, guid: e885f7e794c2b5a43bec2d87b374f628, type: 3}
+    itemPreview: {fileID: 21300000, guid: 8aa5d0f4d1fd44d4a89d1882051301ea, type: 3}
+    info1: $5.00
+    info2: Lemon joice, Citrus, Sugar rim
+  - itemName: Mojito
+    itemPrefab: {fileID: 2522232873259035242, guid: 943b02ab5261048409339f1bb279ec98, type: 3}
+    itemPreview: {fileID: 21300000, guid: e685eee31fc601848a1e1cec91bcf615, type: 3}
+    info1: $8.00
+    info2: White rum, Sugar, Fresh lime juice, Mint
+  - itemName: Blue Hawaiian
+    itemPrefab: {fileID: 6571444960930338508, guid: 4871d4683d7123840878a38be3a4dff6, type: 3}
+    itemPreview: {fileID: 21300000, guid: bac0eeefb235e2a44889155def7fe385, type: 3}
+    info1: $9.00
+    info2: Light rum, Syrup, Vodka, Pineapple juice
+  - itemName: Fruity Red Margaritas
+    itemPrefab: {fileID: 8260049997961623079, guid: f1bc5f50163bc334a81eb1e0518ce10d, type: 3}
+    itemPreview: {fileID: 21300000, guid: 3af36ca21abdcab419998c886ec5f87f, type: 3}
+    info1: $11.00
+    info2: Strawberries, Tequila, Lime juice, Orange liqueur
+  - itemName: Ruby Red-tini
+    itemPrefab: {fileID: 8780723389241387086, guid: 65227dfe8eddf9147bea33c91f975b8c, type: 3}
+    itemPreview: {fileID: 21300000, guid: bf53634c2a76943749b012a7e50d7324, type: 3}
+    info1: $12.50
+    info2: Ruby red grapefruit juice, Vodka, Strawberry
+  - itemName: Blueberry Lemonade Mocktail
+    itemPrefab: {fileID: 3315255938379227244, guid: cd7ab54cb4aca264aab988328219b200, type: 3}
+    itemPreview: {fileID: 21300000, guid: 9d5e8f2e42a97c74fb48b1b0cc3c91ef, type: 3}
+    info1: $7.00
+    info2: Fruit juice, Blueberry, Blue curacao
